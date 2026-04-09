@@ -1,0 +1,6 @@
+GitPython
+requests
+prompt-toolkit
+termcolor
+tabulate
+pyfiglet
